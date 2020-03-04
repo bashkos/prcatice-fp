@@ -1,4 +1,4 @@
-export const name: string = 'Mary';
+export const name: string = 'Susan';
 
 export interface IPerson {
   name: string;

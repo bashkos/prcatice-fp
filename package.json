@@ -6,9 +6,11 @@
   "author": "bashkos<bashkos@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fp-ts": "^2.5.3"
+    "fp-ts": "^2.5.3",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.149",
     "nodemon": "^2.0.2",
     "ts-node": "^8.6.2",
     "typescript": "^3.8.3"
